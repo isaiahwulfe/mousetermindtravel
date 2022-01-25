@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/mousetermindtravel/static/css/main.26dee4aa.css",
+    "main.css": "/mousetermindtravel/static/css/main.6b80b501.css",
     "main.js": "/mousetermindtravel/static/js/main.5dd33b5e.js",
     "index.html": "/mousetermindtravel/index.html",
-    "main.26dee4aa.css.map": "/mousetermindtravel/static/css/main.26dee4aa.css.map",
+    "main.6b80b501.css.map": "/mousetermindtravel/static/css/main.6b80b501.css.map",
     "main.5dd33b5e.js.map": "/mousetermindtravel/static/js/main.5dd33b5e.js.map"
   },
   "entrypoints": [
-    "static/css/main.26dee4aa.css",
+    "static/css/main.6b80b501.css",
     "static/js/main.5dd33b5e.js"
   ]
 }
