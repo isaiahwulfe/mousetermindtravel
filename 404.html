@@ -13,12 +13,16 @@
 <script>
     const urlGroup = ["/mousetermindtravel", "/mousetermindtravel/about", "/mousetermindtravel/contact", "/mousetermindtravel/walt-disney-world", "/mousetermindtravel/disneyland", "/mousetermindtravel/disney-cruise-line", "/mousetermindtravel/aulani-spa-resort"];
 
-    if(urlGroup.indexOf(window.location.pathname) >= 0){
+    const redirect = () => {
+        if(urlGroup.indexOf(window.location.pathname) >= 0){
         window.location.replace = window.location.pathname;
+        }
+        else{
+            window.location.replace = "/mousetermindtravel/not-found-error";
+        }
     }
-    else{
-        window.location.replace = "/mousetermindtravel/not-found-error";
-    }
+
+    redirect();
 </script>
 
 </html>
