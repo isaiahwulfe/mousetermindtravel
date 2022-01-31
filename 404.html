@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mousetermind Travel</title>
+</head>
+<body>
+    
+</body>
+
+<script>
+    const urlGroup = ["/mousetermindtravel", "/mousetermindtravel/about", "/mousetermindtravel/contact", "/mousetermindtravel/walt-disney-world", "/mousetermindtravel/disneyland", "/mousetermindtravel/disney-cruise-line", "/mousetermindtravel/aulani-spa-resort"];
+
+    if(urlGroup.indexOf(window.location.pathname) >= 0){
+        window.location.pathname = window.location.pathname;
+    }
+    else{
+        window.location.pathname = "/mousetermindtravel/not-found-error";
+    }
+</script>
+
+</html>
