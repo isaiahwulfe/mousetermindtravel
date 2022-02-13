@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/mousetermindtravel/static/css/main.3dbc0553.css",
-    "main.js": "/mousetermindtravel/static/js/main.81e60c04.js",
-    "static/media/background.jpg": "/mousetermindtravel/static/media/background.6710b381155eb6e943f2.jpg",
+    "main.css": "/mousetermindtravel/static/css/main.f26e0062.css",
+    "main.js": "/mousetermindtravel/static/js/main.46a52c0d.js",
+    "static/media/marquee-background-cropped.png": "/mousetermindtravel/static/media/marquee-background-cropped.707fcb27a5ff098e1588.png",
     "index.html": "/mousetermindtravel/index.html",
-    "main.3dbc0553.css.map": "/mousetermindtravel/static/css/main.3dbc0553.css.map",
-    "main.81e60c04.js.map": "/mousetermindtravel/static/js/main.81e60c04.js.map"
+    "main.f26e0062.css.map": "/mousetermindtravel/static/css/main.f26e0062.css.map",
+    "main.46a52c0d.js.map": "/mousetermindtravel/static/js/main.46a52c0d.js.map"
   },
   "entrypoints": [
-    "static/css/main.3dbc0553.css",
-    "static/js/main.81e60c04.js"
+    "static/css/main.f26e0062.css",
+    "static/js/main.46a52c0d.js"
   ]
 }
